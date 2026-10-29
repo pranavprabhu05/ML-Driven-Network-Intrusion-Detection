@@ -52,6 +52,9 @@ python unsw_models.py
 ```
 
 **4. Visualize Insights:** Open `DM_LAB_PROJ.pbix` in Power BI Desktop. Refresh the data connections to point to the newly generated `outputs/powerbi_metrics_long.csv` and `outputs/powerbi_feature_importances.csv` files to interact with the visualizations.
+<img width="1281" height="988" alt="Screenshot 2026-10-29 at 10 07 24 AM" src="https://github.com/user-attachments/assets/d40227ee-2c65-46fd-9f1a-aed3bb35c8c0" />
+<img width="1281" height="988" alt="Screenshot 2026-10-29 at 10 08 18 AM" src="https://github.com/user-attachments/assets/8c873c90-5826-4f25-b7ae-ce8f6c5516fb" />
+<img width="1281" height="988" alt="Screenshot 2026-10-29 at 10 08 21 AM" src="https://github.com/user-attachments/assets/57b506f7-75d6-4f12-991e-a0cb07f5c11d" />
 
 
 .
